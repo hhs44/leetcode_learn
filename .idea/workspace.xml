@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 矩阵-updateMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/01 矩阵-updateMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/分式化简-fraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minstack.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/最小栈-minstack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/机器人大冒险-robot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树的中序遍历-inorderTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/二叉树的中序遍历-inorderTraversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二进制求和-addBrinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/二进制求和-addBrinary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/克隆图-cloneGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/克隆图-cloneGraph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/加一-plusOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/加一-plusOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图像渲染-floodFill.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/图像渲染-floodFill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/圆圈中最后剩下的数字/lastRemaining.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/圆圈中最后剩下的数字/lastRemaining.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/墙与门-wallsAndGates.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/墙与门-wallsAndGates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符串解码-ecodeString.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/字符串解码-ecodeString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/完全平方数-numSquares.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/完全平方数-numSquares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实现 strStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/实现 strStr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/密码加密.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/密码加密.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对角线遍历-findDiagonalOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/对角线遍历-findDiagonalOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/寻找数组的中心索引-pivotIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/寻找数组的中心索引-pivotIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/岛屿数量-numisland.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/岛屿数量-numisland.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/打开转盘锁-openLock.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/打开转盘锁-openLock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/拆数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/拆数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据流中的移动平均值-MovingAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/数据流中的移动平均值-MovingAverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/最长公共前缀-longestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/最长公共前缀-longestCommonPrefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/有效的括号-isValid.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/有效的括号-isValid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日温度-dailyTemper.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/每日温度-dailyTemper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/求质数.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/求质数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/生成随机验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/生成随机验证码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/用户管理系统.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/用户管理系统.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/目标和-findTargetSumWays.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/目标和-findTargetSumWays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/至少是其他数字两倍的最大数-dominantIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/至少是其他数字两倍的最大数-dominantIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/螺旋矩阵-spiralOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/螺旋矩阵-spiralOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/逆波兰表达式求值-evalRPN.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/150-逆波兰表达式求值-evalRPN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/通配符匹配-isMach.py" beforeDir="false" afterPath="$PROJECT_DIR$/困难/通配符匹配-isMach.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/钥匙和房间-canVisitAllRooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/钥匙和房间-canVisitAllRooms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -369,7 +332,7 @@
       <workItem from="1586242502875" duration="131000" />
       <workItem from="1586242767195" duration="27000" />
       <workItem from="1589164218250" duration="1206000" />
-      <workItem from="1589439189970" duration="4756000" />
+      <workItem from="1589439189970" duration="5390000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -399,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589439841651</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="调整文件结构">
+      <created>1589443991009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589443991009</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +378,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="有效括号的嵌套深度，简单版" />
     <MESSAGE value="测试git" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试git" />
+    <MESSAGE value="调整文件结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整文件结构" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="202" key="#Deployment" timestamp="1586242773460">
@@ -419,10 +390,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="120" y="223" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1586242570888" />
-    <state x="1040" y="53" key="CommitChangelistDialog2" timestamp="1589439840111">
+    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1589443988659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1040" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439840111" />
+    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589443988659" />
     <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -463,10 +434,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589440483946" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589439874337">
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589444003352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439874337" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589444003352" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589439603889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
