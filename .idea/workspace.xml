@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/有效括号的嵌套深度/maxDepthAfterSplit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/密码加密.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求质数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生成随机验证码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/用户管理系统.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +37,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="A:/python-learn-phone/第三阶段前端基础/day07-js基础二/1、code" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="A:/python-learn-phone/第四阶段-web框架/day1/1、code" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,7 +56,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.robot">
-    <configuration name="岛屿数量-numisland" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="求质数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/岛屿数量-numisland.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求质数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="atest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="用户管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用户管理系统.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="用户管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +113,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用户管理系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生成随机验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/生成随机验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="密码加密" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/密码加密.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="用户管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用户管理系统.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,35 +210,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.robot" />
-        <item itemvalue="Python.岛屿数量-numisland" />
-        <item itemvalue="Python.fraction" />
-        <item itemvalue="Python.atest" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.求质数" />
       </list>
     </recent_temporary>
   </component>
@@ -225,24 +272,101 @@
       <workItem from="1577507706760" duration="833000" />
       <workItem from="1585711303011" duration="7000" />
       <workItem from="1585711586451" duration="45000" />
-      <workItem from="1585727100027" duration="2352000" />
+      <workItem from="1585727100027" duration="3644000" />
+      <workItem from="1586153062953" duration="6188000" />
+      <workItem from="1586159514943" duration="1010000" />
+      <workItem from="1586161803776" duration="504000" />
+      <workItem from="1586225134884" duration="401000" />
+      <workItem from="1586227046121" duration="200000" />
+      <workItem from="1586242413223" duration="44000" />
+      <workItem from="1586242477130" duration="7000" />
+      <workItem from="1586242502875" duration="131000" />
+      <workItem from="1586242767195" duration="27000" />
+      <workItem from="1589164218250" duration="1206000" />
+      <workItem from="1589439189970" duration="244000" />
     </task>
+    <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
+      <created>1585730240198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585730240198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="有效括号的嵌套深度，简单版" />
+    <option name="LAST_COMMIT_MESSAGE" value="有效括号的嵌套深度，简单版" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1585711629429">
+    <state x="182" y="202" key="#Deployment" timestamp="1586242773460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585711629429" />
-    <state x="846" y="287" width="424" height="480" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577515990055" />
+    <state x="182" y="202" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1586242773460" />
+    <state x="120" y="223" key="#Options" timestamp="1586242570888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="120" y="223" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1586242570888" />
+    <state x="1040" y="114" key="CommitChangelistDialog2" timestamp="1585730239150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1040" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585730239150" />
+    <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1586227244982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586227244982" />
+    <state width="914" height="322" key="GridCell.Tab.0.bottom" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="914" height="322" key="GridCell.Tab.0.center" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="914" height="322" key="GridCell.Tab.0.left" timestamp="1586162307179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307179" />
+    <state width="914" height="322" key="GridCell.Tab.0.right" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="914" height="322" key="GridCell.Tab.1.bottom" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="914" height="322" key="GridCell.Tab.1.center" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="914" height="322" key="GridCell.Tab.1.left" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="914" height="322" key="GridCell.Tab.1.right" timestamp="1586162307180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
     <state x="554" y="162" key="SettingsEditor" timestamp="1585728160234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585728160234" />
-    <state x="554" y="168" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577507803443" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589439578289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439578289" />
+    <state x="947" y="210" width="243" height="693" key="ftp.server.browser" timestamp="1586225515023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="947" y="210" width="243" height="693" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1586225515023" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586156153259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586156153259" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -430,33 +554,57 @@
           <line>40</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/求质数.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/求质数.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="uid" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/crawler$01_TiebaSpider.coverage" NAME="01_TiebaSpider Coverage Results" MODIFIED="1565236502758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1567043575191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$clonechart.coverage" NAME="clonechart Coverage Results" MODIFIED="1567047762777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$floodFill.coverage" NAME="floodFill Coverage Results" MODIFIED="1567091777204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$isValid.coverage" NAME="isValid Coverage Results" MODIFIED="1566993375008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$pivotIndex.coverage" NAME="pivotIndex Coverage Results" MODIFIED="1567442408330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$findDiagonalOrder.coverage" NAME="findDiagonalOrder Coverage Results" MODIFIED="1567695918444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1568949148703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$abs.coverage" NAME="abs Coverage Results" MODIFIED="1567764374197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$atest.coverage" NAME="atest Coverage Results" MODIFIED="1569067030936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_numisland.coverage" NAME="岛屿数量-numisland Coverage Results" MODIFIED="1569339269035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_longestCommonPrefix.coverage" NAME="最长公共前缀-longestCommonPrefix Coverage Results" MODIFIED="1568947072847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$dominantIndex.coverage" NAME="dominantIndex Coverage Results" MODIFIED="1568612109217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$02_fan.coverage" NAME="02_fan Coverage Results" MODIFIED="1565273823452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_isMach.coverage" NAME="通配符匹配-isMach Coverage Results" MODIFIED="1568614166789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$03_proxies.coverage" NAME="03_proxies Coverage Results" MODIFIED="1565275207806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$robot.coverage" NAME="robot Coverage Results" MODIFIED="1586161872369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$robot.coverage" NAME="robot Coverage Results" MODIFIED="1569340357557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$01_TiebaSpider.coverage" NAME="01_TiebaSpider Coverage Results" MODIFIED="1565236502758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1567043575191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$clonechart.coverage" NAME="clonechart Coverage Results" MODIFIED="1567047762777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$abs.coverage" NAME="abs Coverage Results" MODIFIED="1567764374197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$.coverage" NAME="用户管理系统 Coverage Results" MODIFIED="1586162235697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$atest.coverage" NAME="atest Coverage Results" MODIFIED="1569067030936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_addBrinary.coverage" NAME="二进制求和-addBrinary Coverage Results" MODIFIED="1568630275043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$findTargetSumWays.coverage" NAME="findTargetSumWays Coverage Results" MODIFIED="1567091630016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$03_proxies.coverage" NAME="03_proxies Coverage Results" MODIFIED="1565275207806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$Open_the_key.coverage" NAME="Open the key Coverage Results" MODIFIED="1566970285772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_strStr.coverage" NAME="实现 strStr Coverage Results" MODIFIED="1568816590576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1569337229393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$dailyTemper.coverage" NAME="dailyTemper Coverage Results" MODIFIED="1567764455718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$robot.coverage" NAME="robot Coverage Results" MODIFIED="1569340357557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$spiralOrder.coverage" NAME="spiralOrder Coverage Results" MODIFIED="1567696051212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
