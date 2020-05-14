@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/密码加密.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求质数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/生成随机验证码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/用户管理系统.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reademe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readem.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +280,7 @@
       <workItem from="1586242502875" duration="131000" />
       <workItem from="1586242767195" duration="27000" />
       <workItem from="1589164218250" duration="1206000" />
-      <workItem from="1589439189970" duration="244000" />
+      <workItem from="1589439189970" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -292,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585730240198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="有效括号的嵌套深度，简单版">
+      <created>1589439591070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589439591070</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="120" y="223" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1586242570888" />
-    <state x="1040" y="114" key="CommitChangelistDialog2" timestamp="1585730239150">
+    <state x="1040" y="53" key="CommitChangelistDialog2" timestamp="1589439589934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1040" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585730239150" />
+    <state x="1040" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439589934" />
     <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1586227244982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -355,10 +359,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585728160234" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589439578289">
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589439622088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439578289" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439622088" />
+    <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589439603889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439603889" />
     <state x="947" y="210" width="243" height="693" key="ftp.server.browser" timestamp="1586225515023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
