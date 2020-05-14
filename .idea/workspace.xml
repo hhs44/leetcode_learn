@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reademe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 矩阵-updateMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/01 矩阵-updateMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/分式化简-fraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minstack.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/最小栈-minstack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/机器人大冒险-robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树的中序遍历-inorderTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/二叉树的中序遍历-inorderTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二进制求和-addBrinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/二进制求和-addBrinary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/克隆图-cloneGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/克隆图-cloneGraph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/加一-plusOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/加一-plusOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图像渲染-floodFill.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/图像渲染-floodFill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/圆圈中最后剩下的数字/lastRemaining.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/圆圈中最后剩下的数字/lastRemaining.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/墙与门-wallsAndGates.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/墙与门-wallsAndGates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串解码-ecodeString.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/字符串解码-ecodeString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/完全平方数-numSquares.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/完全平方数-numSquares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实现 strStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/实现 strStr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/密码加密.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/密码加密.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对角线遍历-findDiagonalOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/对角线遍历-findDiagonalOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/寻找数组的中心索引-pivotIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/寻找数组的中心索引-pivotIndex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/岛屿数量-numisland.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/岛屿数量-numisland.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打开转盘锁-openLock.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/打开转盘锁-openLock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/拆数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/拆数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据流中的移动平均值-MovingAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/数据流中的移动平均值-MovingAverage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/最长公共前缀-longestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/最长公共前缀-longestCommonPrefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/有效的括号-isValid.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/有效的括号-isValid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日温度-dailyTemper.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/每日温度-dailyTemper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/求质数.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/求质数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/生成随机验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/生成随机验证码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/用户管理系统.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/用户管理系统.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/目标和-findTargetSumWays.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/目标和-findTargetSumWays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/至少是其他数字两倍的最大数-dominantIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/简单题/至少是其他数字两倍的最大数-dominantIndex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/螺旋矩阵-spiralOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/螺旋矩阵-spiralOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/逆波兰表达式求值-evalRPN.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/150-逆波兰表达式求值-evalRPN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/通配符匹配-isMach.py" beforeDir="false" afterPath="$PROJECT_DIR$/困难/通配符匹配-isMach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/钥匙和房间-canVisitAllRooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/中等题/钥匙和房间-canVisitAllRooms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +88,36 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.robot">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\project\python\leetcode-learn\中等题" />
+      <recent name="A:\project\python\leetcode-learn\困难" />
+      <recent name="A:\project\python\leetcode-learn\简单题" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.分式化简-fraction">
+    <configuration name="分式化简-fraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="A:\project\python\leetcode-learn\简单题\分式化简-fraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="求质数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求质数.py" />
+      <option name="SCRIPT_NAME" value="A:\project\python\leetcode-learn\简单题\求质数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,6 +250,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="atest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +285,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/robot.py" />
+      <option name="SCRIPT_NAME" value="A:\project\python\leetcode-learn\中等题\机器人大冒险-robot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,6 +296,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.分式化简-fraction" />
+        <item itemvalue="Python.atest" />
         <item itemvalue="Python.robot" />
         <item itemvalue="Python.求质数" />
       </list>
@@ -280,7 +369,7 @@
       <workItem from="1586242502875" duration="131000" />
       <workItem from="1586242767195" duration="27000" />
       <workItem from="1589164218250" duration="1206000" />
-      <workItem from="1589439189970" duration="484000" />
+      <workItem from="1589439189970" duration="4756000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -296,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589439591070</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试git">
+      <created>1589439705523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589439705523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试git">
+      <created>1589439841651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589439841651</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +407,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="有效括号的嵌套深度，简单版" />
-    <option name="LAST_COMMIT_MESSAGE" value="有效括号的嵌套深度，简单版" />
+    <MESSAGE value="测试git" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试git" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="202" key="#Deployment" timestamp="1586242773460">
@@ -315,30 +419,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="120" y="223" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1586242570888" />
-    <state x="1040" y="53" key="CommitChangelistDialog2" timestamp="1589439768662">
+    <state x="1040" y="53" key="CommitChangelistDialog2" timestamp="1589439840111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1040" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439768662" />
-    <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1586227244982">
+    <state x="1040" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439840111" />
+    <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586227244982" />
-    <state width="914" height="322" key="GridCell.Tab.0.bottom" timestamp="1586162307180">
+    <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589440344753" />
+    <state width="1017" height="234" key="GridCell.Tab.0.bottom" timestamp="1589440910309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
-    <state width="914" height="322" key="GridCell.Tab.0.center" timestamp="1586162307180">
+    <state width="1017" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910309" />
+    <state width="1017" height="234" key="GridCell.Tab.0.center" timestamp="1589440910309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
-    <state width="914" height="322" key="GridCell.Tab.0.left" timestamp="1586162307179">
+    <state width="1017" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910309" />
+    <state width="1017" height="234" key="GridCell.Tab.0.left" timestamp="1589440910308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307179" />
-    <state width="914" height="322" key="GridCell.Tab.0.right" timestamp="1586162307180">
+    <state width="1017" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910308" />
+    <state width="1017" height="234" key="GridCell.Tab.0.right" timestamp="1589440910309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
+    <state width="1017" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910309" />
     <state width="914" height="322" key="GridCell.Tab.1.bottom" timestamp="1586162307180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -355,14 +459,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
-    <state x="554" y="162" key="SettingsEditor" timestamp="1585728160234">
+    <state x="554" y="162" key="SettingsEditor" timestamp="1589440483946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585728160234" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589439790941">
+    <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589440483946" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589439874337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439790941" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589439874337" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589439603889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -380,161 +484,161 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/墙与门-wallsAndGates.py</url>
+          <url>file://$PROJECT_DIR$/中等题/墙与门-wallsAndGates.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/墙与门-wallsAndGates.py</url>
+          <url>file://$PROJECT_DIR$/中等题/墙与门-wallsAndGates.py</url>
           <line>21</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/墙与门-wallsAndGates.py</url>
+          <url>file://$PROJECT_DIR$/中等题/墙与门-wallsAndGates.py</url>
           <line>17</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/岛屿数量-numisland.py</url>
+          <url>file://$PROJECT_DIR$/中等题/岛屿数量-numisland.py</url>
           <line>64</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/岛屿数量-numisland.py</url>
+          <url>file://$PROJECT_DIR$/中等题/岛屿数量-numisland.py</url>
           <line>20</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打开转盘锁-openLock.py</url>
+          <url>file://$PROJECT_DIR$/中等题/打开转盘锁-openLock.py</url>
           <line>50</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打开转盘锁-openLock.py</url>
+          <url>file://$PROJECT_DIR$/中等题/打开转盘锁-openLock.py</url>
           <line>41</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/完全平方数-numSquares.py</url>
+          <url>file://$PROJECT_DIR$/中等题/完全平方数-numSquares.py</url>
           <line>47</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/完全平方数-numSquares.py</url>
+          <url>file://$PROJECT_DIR$/中等题/完全平方数-numSquares.py</url>
           <line>48</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/完全平方数-numSquares.py</url>
+          <url>file://$PROJECT_DIR$/中等题/完全平方数-numSquares.py</url>
           <line>38</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/完全平方数-numSquares.py</url>
+          <url>file://$PROJECT_DIR$/中等题/完全平方数-numSquares.py</url>
           <line>29</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/有效的括号-isValid.py</url>
+          <url>file://$PROJECT_DIR$/简单题/有效的括号-isValid.py</url>
           <line>19</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/有效的括号-isValid.py</url>
+          <url>file://$PROJECT_DIR$/简单题/有效的括号-isValid.py</url>
           <line>6</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日温度-dailyTemper.py</url>
+          <url>file://$PROJECT_DIR$/中等题/每日温度-dailyTemper.py</url>
           <line>31</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日温度-dailyTemper.py</url>
+          <url>file://$PROJECT_DIR$/中等题/每日温度-dailyTemper.py</url>
           <line>32</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日温度-dailyTemper.py</url>
+          <url>file://$PROJECT_DIR$/中等题/每日温度-dailyTemper.py</url>
           <line>20</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日温度-dailyTemper.py</url>
+          <url>file://$PROJECT_DIR$/中等题/每日温度-dailyTemper.py</url>
           <line>18</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/目标和-findTargetSumWays.py</url>
+          <url>file://$PROJECT_DIR$/中等题/目标和-findTargetSumWays.py</url>
           <line>40</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/目标和-findTargetSumWays.py</url>
+          <url>file://$PROJECT_DIR$/中等题/目标和-findTargetSumWays.py</url>
           <line>39</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/寻找数组的中心索引-pivotIndex.py</url>
+          <url>file://$PROJECT_DIR$/简单题/寻找数组的中心索引-pivotIndex.py</url>
           <line>16</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/至少是其他数字两倍的最大数-dominantIndex.py</url>
+          <url>file://$PROJECT_DIR$/简单题/至少是其他数字两倍的最大数-dominantIndex.py</url>
           <line>18</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/对角线遍历-findDiagonalOrder.py</url>
+          <url>file://$PROJECT_DIR$/中等题/对角线遍历-findDiagonalOrder.py</url>
           <line>63</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/对角线遍历-findDiagonalOrder.py</url>
+          <url>file://$PROJECT_DIR$/中等题/对角线遍历-findDiagonalOrder.py</url>
           <line>35</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/通配符匹配-isMach.py</url>
+          <url>file://$PROJECT_DIR$/困难/通配符匹配-isMach.py</url>
           <line>28</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/二进制求和-addBrinary.py</url>
+          <url>file://$PROJECT_DIR$/简单题/二进制求和-addBrinary.py</url>
           <line>50</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/二进制求和-addBrinary.py</url>
+          <url>file://$PROJECT_DIR$/简单题/二进制求和-addBrinary.py</url>
           <line>10</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/二进制求和-addBrinary.py</url>
+          <url>file://$PROJECT_DIR$/简单题/二进制求和-addBrinary.py</url>
           <line>20</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/实现 strStr.py</url>
+          <url>file://$PROJECT_DIR$/简单题/实现 strStr.py</url>
           <line>8</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/实现 strStr.py</url>
+          <url>file://$PROJECT_DIR$/简单题/实现 strStr.py</url>
           <line>14</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/实现 strStr.py</url>
+          <url>file://$PROJECT_DIR$/简单题/实现 strStr.py</url>
           <line>9</line>
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/最长公共前缀-longestCommonPrefix.py</url>
+          <url>file://$PROJECT_DIR$/简单题/最长公共前缀-longestCommonPrefix.py</url>
           <line>17</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/最长公共前缀-longestCommonPrefix.py</url>
+          <url>file://$PROJECT_DIR$/简单题/最长公共前缀-longestCommonPrefix.py</url>
           <line>24</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
@@ -553,22 +657,17 @@
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/atest.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="113" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/fraction.py</url>
-          <line>40</line>
+          <url>file://$PROJECT_DIR$/简单题/分式化简-fraction.py</url>
+          <line>43</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/求质数.py</url>
+          <url>file://$PROJECT_DIR$/简单题/求质数.py</url>
           <line>13</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/求质数.py</url>
+          <url>file://$PROJECT_DIR$/简单题/求质数.py</url>
           <line>9</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
@@ -597,6 +696,7 @@
     <SUITE FILE_PATH="coverage/crawler$_longestCommonPrefix.coverage" NAME="最长公共前缀-longestCommonPrefix Coverage Results" MODIFIED="1568947072847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$dominantIndex.coverage" NAME="dominantIndex Coverage Results" MODIFIED="1568612109217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$02_fan.coverage" NAME="02_fan Coverage Results" MODIFIED="1565273823452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1589440910300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_isMach.coverage" NAME="通配符匹配-isMach Coverage Results" MODIFIED="1568614166789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$03_proxies.coverage" NAME="03_proxies Coverage Results" MODIFIED="1565275207806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_learn$robot.coverage" NAME="robot Coverage Results" MODIFIED="1586161872369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -610,6 +710,7 @@
     <SUITE FILE_PATH="coverage/crawler$_addBrinary.coverage" NAME="二进制求和-addBrinary Coverage Results" MODIFIED="1568630275043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$findTargetSumWays.coverage" NAME="findTargetSumWays Coverage Results" MODIFIED="1567091630016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$Open_the_key.coverage" NAME="Open the key Coverage Results" MODIFIED="1566970285772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$atest.coverage" NAME="atest Coverage Results" MODIFIED="1589440861617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_strStr.coverage" NAME="实现 strStr Coverage Results" MODIFIED="1568816590576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1569337229393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$dailyTemper.coverage" NAME="dailyTemper Coverage Results" MODIFIED="1567764455718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
