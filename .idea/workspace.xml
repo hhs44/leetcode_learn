@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/位运算/136.只出现一次的数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/位运算/137.只出现一次的数字2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/位运算/260. 只出现一次的数字 III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/位运算/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/136.只出现一次的数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="crawler" />
@@ -39,7 +58,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="A:/python-learn-phone/第四阶段-web框架/day1/1、code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/简单题/只出现一次数字" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,16 +68,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\project\python\leetcode-learn\简单题\只出现一次数字" />
+      <recent name="A:\project\python\leetcode-learn" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\project\python\leetcode-learn" />
       <recent name="A:\project\python\leetcode-learn\中等题" />
       <recent name="A:\project\python\leetcode-learn\困难" />
       <recent name="A:\project\python\leetcode-learn\简单题" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.分式化简-fraction">
+  <component name="RunManager" selected="Python.136.只出现一次的数字">
     <configuration name="分式化简-fraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,28 +105,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="求质数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="A:\project\python\leetcode-learn\简单题\求质数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="用户管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +119,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用户管理系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="136.只出现一次的数字" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/136.只出现一次的数字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,12 +281,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.136.只出现一次的数字" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.分式化简-fraction" />
         <item itemvalue="Python.atest" />
         <item itemvalue="Python.robot" />
-        <item itemvalue="Python.求质数" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +379,9 @@
       <workItem from="1586242502875" duration="131000" />
       <workItem from="1586242767195" duration="27000" />
       <workItem from="1589164218250" duration="1206000" />
-      <workItem from="1589439189970" duration="5390000" />
+      <workItem from="1589439189970" duration="5634000" />
+      <workItem from="1589448044745" duration="275000" />
+      <workItem from="1589515271296" duration="5581000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -369,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589443991009</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="调整文件结构">
+      <created>1589446041262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589446041262</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,34 +442,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="182" y="202" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1586242773460" />
+    <state x="1042" y="185" key="#Notifications" timestamp="1589446048540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1042" y="185" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1589446048540" />
     <state x="120" y="223" key="#Options" timestamp="1586242570888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="120" y="223" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1586242570888" />
-    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1589443988659">
+    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1589446040413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589443988659" />
+    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589446040413" />
     <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589440344753" />
-    <state width="1017" height="234" key="GridCell.Tab.0.bottom" timestamp="1589440910309">
+    <state width="845" height="234" key="GridCell.Tab.0.bottom" timestamp="1589525408416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1017" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910309" />
-    <state width="1017" height="234" key="GridCell.Tab.0.center" timestamp="1589440910309">
+    <state width="845" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589525408416" />
+    <state width="845" height="234" key="GridCell.Tab.0.center" timestamp="1589525408415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1017" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910309" />
-    <state width="1017" height="234" key="GridCell.Tab.0.left" timestamp="1589440910308">
+    <state width="845" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589525408415" />
+    <state width="845" height="234" key="GridCell.Tab.0.left" timestamp="1589525408415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1017" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910308" />
-    <state width="1017" height="234" key="GridCell.Tab.0.right" timestamp="1589440910309">
+    <state width="845" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589525408415" />
+    <state width="845" height="234" key="GridCell.Tab.0.right" timestamp="1589525408416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1017" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589440910309" />
+    <state width="845" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589525408416" />
     <state width="914" height="322" key="GridCell.Tab.1.bottom" timestamp="1586162307180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -430,14 +490,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586162307180" />
-    <state x="554" y="162" key="SettingsEditor" timestamp="1589440483946">
+    <state x="554" y="162" key="SettingsEditor" timestamp="1589525154243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589440483946" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589444003352">
+    <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589525154243" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589446064514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589444003352" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589446064514" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589439603889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -614,20 +674,6 @@
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/简单题/分式化简-fraction.py</url>
           <line>43</line>
           <option name="timeStamp" value="114" />
@@ -653,7 +699,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="uid" />
+        <watch expression="nums[:x - 2] + nums[x:]" language="Python" />
+        <watch expression="y" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -671,6 +718,7 @@
     <SUITE FILE_PATH="coverage/crawler$_isMach.coverage" NAME="通配符匹配-isMach Coverage Results" MODIFIED="1568614166789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$03_proxies.coverage" NAME="03_proxies Coverage Results" MODIFIED="1565275207806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_learn$robot.coverage" NAME="robot Coverage Results" MODIFIED="1586161872369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$test.coverage" NAME="test Coverage Results" MODIFIED="1589517880800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$robot.coverage" NAME="robot Coverage Results" MODIFIED="1569340357557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$01_TiebaSpider.coverage" NAME="01_TiebaSpider Coverage Results" MODIFIED="1565236502758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1567043575191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -678,6 +726,7 @@
     <SUITE FILE_PATH="coverage/crawler$abs.coverage" NAME="abs Coverage Results" MODIFIED="1567764374197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_learn$.coverage" NAME="用户管理系统 Coverage Results" MODIFIED="1586162235697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$atest.coverage" NAME="atest Coverage Results" MODIFIED="1569067030936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$136_.coverage" NAME="136.只出现一次的数字 Coverage Results" MODIFIED="1589519117874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_addBrinary.coverage" NAME="二进制求和-addBrinary Coverage Results" MODIFIED="1568630275043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$findTargetSumWays.coverage" NAME="findTargetSumWays Coverage Results" MODIFIED="1567091630016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$Open_the_key.coverage" NAME="Open the key Coverage Results" MODIFIED="1566970285772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
