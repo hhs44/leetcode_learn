@@ -1,12 +1,14 @@
+from collections import Counter
 from typing import List
 
 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        for x, y in enumerate(nums):
-            if y not in nums[:x] + nums[x+1:]:
-                print(y)
+        datas = Counter(nums)
+        for each in datas:
+            if datas[each] == 1: return each
+
 
 if __name__ == '__main__':
-    nums =[2,2,1]
-    Solution().singleNumber(nums)
+    nums = [2, 2, 3, 2]
+    print(Solution().singleNumber(nums))
