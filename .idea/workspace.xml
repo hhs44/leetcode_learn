@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日打卡一题/76. 最小覆盖子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日打卡一题/146. LRU缓存机制.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -488,7 +488,9 @@
       <workItem from="1589786602696" duration="12007000" />
       <workItem from="1589875180455" duration="6498000" />
       <workItem from="1589893475513" duration="286000" />
-      <workItem from="1590213817152" duration="3539000" />
+      <workItem from="1590213817152" duration="3605000" />
+      <workItem from="1590371248734" duration="722000" />
+      <workItem from="1590413483815" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -567,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589889906538</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="76题字符串问题，未解决">
+      <created>1590226971722</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590226971722</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +594,8 @@
     <MESSAGE value="解决127问题" />
     <MESSAGE value="新增371" />
     <MESSAGE value="680验证回文字 标签字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="680验证回文字 标签字符串" />
+    <MESSAGE value="76题字符串问题，未解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="76题字符串问题，未解决" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="202" key="#Deployment" timestamp="1586242773460">
@@ -609,11 +619,11 @@
       <screen x="0" y="0" width="1480" height="1040" />
     </state>
     <state x="781" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1480.1040@0.0.1480.1040" timestamp="1589788390360" />
-    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1589889904356">
+    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1590226969913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="53" key="CommitChangelistDialog2/0.0.1480.1040@0.0.1480.1040" timestamp="1589799521667" />
-    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589889904356" />
+    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226969913" />
     <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -658,11 +668,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589525154243" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1589889980022">
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1590226982887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="348" key="Vcs.Push.Dialog.v2/0.0.1480.1040@0.0.1480.1040" timestamp="1589803715449" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589889980022" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226982887" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590226940205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
