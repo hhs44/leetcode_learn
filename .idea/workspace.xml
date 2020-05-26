@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日打卡一题/146. LRU缓存机制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日打卡一题/287. 寻找重复数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日打卡一题/146. LRU缓存机制.py" beforeDir="false" afterPath="$PROJECT_DIR$/每日打卡一题/146. LRU缓存机制.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,29 +230,7 @@
       <recent name="A:\project\python\leetcode-learn\简单题" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.680. 验证回文字符串 Ⅱ">
-    <configuration name="生成随机验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/生成随机验证码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.287. 寻找重复数">
     <configuration name="136.只出现一次的数字 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,6 +289,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/位运算/137.只出现一次的数字2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="287. 寻找重复数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日打卡一题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日打卡一题/287. 寻找重复数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,35 +385,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.287. 寻找重复数" />
         <item itemvalue="Python.680. 验证回文字符串 Ⅱ" />
         <item itemvalue="Python.136.只出现一次的数字 (1)" />
         <item itemvalue="Python.137.只出现一次的数字2" />
         <item itemvalue="Python.136.只出现一次的数字" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +469,10 @@
       <workItem from="1589893475513" duration="286000" />
       <workItem from="1590213817152" duration="3605000" />
       <workItem from="1590371248734" duration="722000" />
-      <workItem from="1590413483815" duration="731000" />
+      <workItem from="1590413483815" duration="2711000" />
+      <workItem from="1590489755360" duration="601000" />
+      <workItem from="1590491589342" duration="295000" />
+      <workItem from="1590492099935" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -576,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590226971722</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="146LRU缓存机制">
+      <created>1590414431224</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590414431224</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +584,8 @@
     <MESSAGE value="新增371" />
     <MESSAGE value="680验证回文字 标签字符串" />
     <MESSAGE value="76题字符串问题，未解决" />
-    <option name="LAST_COMMIT_MESSAGE" value="76题字符串问题，未解决" />
+    <MESSAGE value="146LRU缓存机制" />
+    <option name="LAST_COMMIT_MESSAGE" value="146LRU缓存机制" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="202" key="#Deployment" timestamp="1586242773460">
@@ -619,11 +609,11 @@
       <screen x="0" y="0" width="1480" height="1040" />
     </state>
     <state x="781" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1480.1040@0.0.1480.1040" timestamp="1589788390360" />
-    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1590226969913">
+    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1590414429582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="53" key="CommitChangelistDialog2/0.0.1480.1040@0.0.1480.1040" timestamp="1589799521667" />
-    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226969913" />
+    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590414429582" />
     <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -668,11 +658,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589525154243" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1590226982887">
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1590414444764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="348" key="Vcs.Push.Dialog.v2/0.0.1480.1040@0.0.1480.1040" timestamp="1589803715449" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590226982887" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590414444764" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590226940205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -879,6 +869,11 @@
           <line>17</line>
           <option name="timeStamp" value="119" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日打卡一题/287. 寻找重复数.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -888,12 +883,6 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="s[l-1]" language="Python" />
-        <watch expression="s[1]" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/crawler$floodFill.coverage" NAME="floodFill Coverage Results" MODIFIED="1567091777204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -906,6 +895,7 @@
     <SUITE FILE_PATH="coverage/crawler$dominantIndex.coverage" NAME="dominantIndex Coverage Results" MODIFIED="1568612109217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$02_fan.coverage" NAME="02_fan Coverage Results" MODIFIED="1565273823452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_learn$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1589440910300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$287__.coverage" NAME="287. 寻找重复数 Coverage Results" MODIFIED="1590493044820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日打卡一题" />
     <SUITE FILE_PATH="coverage/crawler$_isMach.coverage" NAME="通配符匹配-isMach Coverage Results" MODIFIED="1568614166789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$03_proxies.coverage" NAME="03_proxies Coverage Results" MODIFIED="1565275207806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_learn$robot.coverage" NAME="robot Coverage Results" MODIFIED="1586161872369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
