@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/201. 数字范围按位与.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/974. 和可被 K 整除的子数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/位运算/401. 二进制手表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/394. 字符串解码.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,6 +219,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\project\python\leetcode-learn\每日打卡一题" />
       <recent name="A:\project\python\leetcode-learn" />
       <recent name="A:\project\python\leetcode-learn\中等题" />
       <recent name="A:\project\python\leetcode-learn\困难" />
@@ -231,29 +230,7 @@
       <recent name="A:\project\python\leetcode-learn" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.974. 和可被 K 整除的子数组">
-    <configuration name="136.只出现一次的数字 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/位运算" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/位运算/136.只出现一次的数字.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.394. 字符串解码">
     <configuration name="287. 寻找重复数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,6 +245,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日打卡一题/287. 寻找重复数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="394. 字符串解码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/394. 字符串解码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,35 +341,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="用户管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用户管理系统.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.394. 字符串解码" />
         <item itemvalue="Python.974. 和可被 K 整除的子数组" />
         <item itemvalue="Python.401. 二进制手表" />
         <item itemvalue="Python.287. 寻找重复数" />
         <item itemvalue="Python.680. 验证回文字符串 Ⅱ" />
-        <item itemvalue="Python.136.只出现一次的数字 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +430,8 @@
       <workItem from="1590491589342" duration="295000" />
       <workItem from="1590492099935" duration="2569000" />
       <workItem from="1590540702176" duration="66000" />
-      <workItem from="1590579216568" duration="5893000" />
+      <workItem from="1590579216568" duration="6450000" />
+      <workItem from="1590627439174" duration="6252000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -553,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590493287705</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="974.和可被k整除的子数组">
+      <created>1590585390785</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590585390785</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +559,8 @@
     <MESSAGE value="76题字符串问题，未解决" />
     <MESSAGE value="146LRU缓存机制" />
     <MESSAGE value="287. 寻找重复数" />
-    <option name="LAST_COMMIT_MESSAGE" value="287. 寻找重复数" />
+    <MESSAGE value="974.和可被k整除的子数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="974.和可被k整除的子数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="202" key="#Deployment" timestamp="1586242773460">
@@ -598,35 +584,35 @@
       <screen x="0" y="0" width="1480" height="1040" />
     </state>
     <state x="781" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1480.1040@0.0.1480.1040" timestamp="1589788390360" />
-    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1590493285505">
+    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1590585389050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="53" key="CommitChangelistDialog2/0.0.1480.1040@0.0.1480.1040" timestamp="1589799521667" />
-    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590493285505" />
+    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590585389050" />
     <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589440344753" />
-    <state width="913" height="321" key="GridCell.Tab.0.bottom" timestamp="1590584416894">
+    <state width="913" height="320" key="GridCell.Tab.0.bottom" timestamp="1590633698974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.bottom/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590584416894" />
-    <state width="913" height="321" key="GridCell.Tab.0.center" timestamp="1590584416894">
+    <state width="913" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590633698974" />
+    <state width="913" height="320" key="GridCell.Tab.0.center" timestamp="1590633698974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.center/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590584416894" />
-    <state width="913" height="321" key="GridCell.Tab.0.left" timestamp="1590584416894">
+    <state width="913" height="320" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590633698974" />
+    <state width="913" height="320" key="GridCell.Tab.0.left" timestamp="1590633698974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.left/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590584416894" />
-    <state width="913" height="321" key="GridCell.Tab.0.right" timestamp="1590584416894">
+    <state width="913" height="320" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590633698974" />
+    <state width="913" height="320" key="GridCell.Tab.0.right" timestamp="1590633698974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.right/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590584416894" />
+    <state width="913" height="320" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590633698974" />
     <state width="914" height="322" key="GridCell.Tab.1.bottom" timestamp="1586162307180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -647,11 +633,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589525154243" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1590493294338">
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1590585397066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="348" key="Vcs.Push.Dialog.v2/0.0.1480.1040@0.0.1480.1040" timestamp="1589803715449" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590493294338" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590585397066" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590226940205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -864,14 +850,19 @@
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/974. 和可被 K 整除的子数组.py</url>
+          <url>file://$PROJECT_DIR$/每日打卡一题/974. 和可被 K 整除的子数组.py</url>
           <line>38</line>
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/974. 和可被 K 整除的子数组.py</url>
+          <url>file://$PROJECT_DIR$/每日打卡一题/974. 和可被 K 整除的子数组.py</url>
           <line>48</line>
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/394. 字符串解码.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -884,8 +875,10 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="sum(A[start:y])" language="Python" />
-        <watch expression="A[start:y]" language="Python" />
+        <watch expression="s[0:re_str-i]" language="Python" />
+        <watch expression="s[re_str+i-1: x]*n" language="Python" />
+        <watch expression="s[re_str+i-1: x]" language="Python" />
+        <watch expression="s[x+1:]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -895,6 +888,7 @@
     <SUITE FILE_PATH="coverage/crawler$pivotIndex.coverage" NAME="pivotIndex Coverage Results" MODIFIED="1567442408330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$findDiagonalOrder.coverage" NAME="findDiagonalOrder Coverage Results" MODIFIED="1567695918444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1568949148703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$394__.coverage" NAME="394. 字符串解码 Coverage Results" MODIFIED="1590633698962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_numisland.coverage" NAME="岛屿数量-numisland Coverage Results" MODIFIED="1569339269035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_longestCommonPrefix.coverage" NAME="最长公共前缀-longestCommonPrefix Coverage Results" MODIFIED="1568947072847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$dominantIndex.coverage" NAME="dominantIndex Coverage Results" MODIFIED="1568612109217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
