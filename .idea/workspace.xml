@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GIL全局解释器锁.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划问题/198. 打家劫舍.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/www_zhipin_com/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/www_zhipin_com/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/www_zhipin_com/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/www_zhipin_com/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/www_zhipin_com/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_zhipin_com/www_zhipin_com/spiders/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +203,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -436,6 +443,8 @@
       <workItem from="1590634340511" duration="635000" />
       <workItem from="1590714486028" duration="3067000" />
       <workItem from="1591354580725" duration="1708000" />
+      <workItem from="1591410495773" duration="131000" />
+      <workItem from="1591667164109" duration="677000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -559,6 +568,7 @@
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="有效括号的嵌套深度，简单版" />
     <MESSAGE value="测试git" />
     <MESSAGE value="调整文件结构" />
@@ -596,35 +606,35 @@
       <screen x="0" y="0" width="1480" height="1040" />
     </state>
     <state x="781" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1480.1040@0.0.1480.1040" timestamp="1589788390360" />
-    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1590634231836">
+    <state x="807" y="53" key="CommitChangelistDialog2" timestamp="1591360803863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="53" key="CommitChangelistDialog2/0.0.1480.1040@0.0.1480.1040" timestamp="1589799521667" />
-    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590634231836" />
-    <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589440344753">
+    <state x="807" y="53" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591360803863" />
+    <state x="846" y="276" width="424" height="480" key="FileChooserDialogImpl" timestamp="1591669020044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589440344753" />
-    <state width="913" height="230" key="GridCell.Tab.0.bottom" timestamp="1591358982164">
+    <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591669020044" />
+    <state width="455" height="230" key="GridCell.Tab.0.bottom" timestamp="1591360835477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.bottom/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591358982164" />
-    <state width="913" height="230" key="GridCell.Tab.0.center" timestamp="1591358982163">
+    <state width="455" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591360835477" />
+    <state width="455" height="230" key="GridCell.Tab.0.center" timestamp="1591360835477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.center/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591358982163" />
-    <state width="913" height="230" key="GridCell.Tab.0.left" timestamp="1591358982163">
+    <state width="455" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591360835477" />
+    <state width="455" height="230" key="GridCell.Tab.0.left" timestamp="1591360835477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.left/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591358982163" />
-    <state width="913" height="230" key="GridCell.Tab.0.right" timestamp="1591358982164">
+    <state width="455" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591360835477" />
+    <state width="455" height="230" key="GridCell.Tab.0.right" timestamp="1591360835477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.right/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="913" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591358982164" />
+    <state width="455" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591360835477" />
     <state width="914" height="322" key="GridCell.Tab.1.bottom" timestamp="1586162307180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -645,11 +655,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590634635454" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1590634964409">
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2" timestamp="1591360815249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="348" key="Vcs.Push.Dialog.v2/0.0.1480.1040@0.0.1480.1040" timestamp="1589803715449" />
-    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590634964409" />
+    <state x="959" y="348" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591360815249" />
     <state x="1158" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590226940205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
