@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +41,6 @@
     <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="ProjectId" id="1P7mgd7UcsKO4fvJok9tqh21wmR" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -284,6 +280,7 @@
       <workItem from="1592385368734" duration="203000" />
       <workItem from="1592385618197" duration="308000" />
       <workItem from="1592883492113" duration="1293000" />
+      <workItem from="1593325652757" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
