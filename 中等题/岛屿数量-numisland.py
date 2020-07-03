@@ -11,7 +11,7 @@ class Solution:
         #         count = 0
         #         directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
         #         row= len(grid)
-        #         clo = len(grid)
+        #         clo = len(grid[0])
         #         vistied = [[False for a in range(0, clo)] for b in range(row)]
         #         for i in range(0,row):
         #             for j in range(0,clo):
