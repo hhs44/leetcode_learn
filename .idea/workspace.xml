@@ -2,129 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee9fa0-ebc2-4f0c-a13f-6dbd1d8606f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01 矩阵-updateMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/103.二叉树的锯齿形层次遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1111.有效括号的嵌套深度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/136.只出现一次的数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/137.只出现一次的数字2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.最长公共前缀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/146. LRU缓存机制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/148.排序链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/150-逆波兰表达式求值-evalRPN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/198. 打家劫舍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.两数相加.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.合并两个有序链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/260. 只出现一次的数字 III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/287. 寻找重复数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.无重复字符的最长子串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.最长有效括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/371. 两整数之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/378.有序矩阵中第k小的元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/401. 二进制手表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/43.字符串相乘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/44.通配符匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/445.两数相加-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/567.字符串的排列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63.不同路径-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/680. 验证回文字符串 Ⅱ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/76. 最小覆盖子串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/974. 和可被 K 整除的子数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lastRemaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树的中序遍历-inorderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二进制求和-addBrinary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/克隆图-cloneGraph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/分式化简-fraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/加一-plusOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图像渲染-floodFill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/墙与门-wallsAndGates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串解码-ecodeString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/完全平方数-numSquares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/实现 strStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/密码加密.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/对角线遍历-findDiagonalOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/寻找数组的中心索引-pivotIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/岛屿数量-numisland.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/岛屿面积-maxAreaisland .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打开转盘锁-openLock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拆数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据流中的移动平均值-MovingAverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据类型/图/图" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据类型/字符串/字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最小栈-minstack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最长公共前缀-longestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/有效的括号-isValid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器人大冒险-robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日温度-dailyTemper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求质数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/生成随机验证码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/用户管理系统.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/目标和-findTargetSumWays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/至少是其他数字两倍的最大数-dominantIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/螺旋矩阵-spiralOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/二分法/二分法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/位运算/位运算.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/动态规划/动态规划.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/双指针/双指针.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/双指针/滑动窗口.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/哈希表/哈希表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解题思路/堆排序/堆排序.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/通配符匹配-isMach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/钥匙和房间-canVisitAllRooms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201. 数字范围按位与.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/287.寻找重复数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIL全局解释器锁.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/01 矩阵-updateMatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/150-逆波兰表达式求值-evalRPN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/378.有序矩阵中第k小的元素.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/二叉树的中序遍历-inorderTraversal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/克隆图-cloneGraph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/墙与门-wallsAndGates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/字符串解码-ecodeString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/完全平方数-numSquares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/对角线遍历-findDiagonalOrder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/岛屿数量-numisland.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/岛屿面积-maxAreaisland .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/打开转盘锁-openLock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/机器人大冒险-robot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/每日温度-dailyTemper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/目标和-findTargetSumWays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/螺旋矩阵-spiralOrder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/中等题/钥匙和房间-canVisitAllRooms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/136.只出现一次的数字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/137.只出现一次的数字2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/260. 只出现一次的数字 III.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/371. 两整数之和.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/401. 二进制手表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划问题/198. 打家劫舍.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划问题/718. 最长重复子数组.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/困难/通配符匹配-isMach.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/有效括号的嵌套深度/maxDepthAfterSplit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日打卡一题/146. LRU缓存机制.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日打卡一题/287. 寻找重复数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日打卡一题/680. 验证回文字符串 Ⅱ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日打卡一题/76. 最小覆盖子串.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日打卡一题/974. 和可被 K 整除的子数组.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/103.二叉树的锯齿形层次遍历.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/二进制求和-addBrinary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/分式化简-fraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/加一-plusOne.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/图像渲染-floodFill.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/圆圈中最后剩下的数字/lastRemaining.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/实现 strStr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/密码加密.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/寻找数组的中心索引-pivotIndex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/拆数字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/数据流中的移动平均值-MovingAverage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/最小栈-minstack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/最长公共前缀-longestCommonPrefix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/有效的括号-isValid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/求质数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/生成随机验证码.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/用户管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/简单题/至少是其他数字两倍的最大数-dominantIndex.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +85,7 @@
       <recent name="A:\project\python\leetcode-learn\困难" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.148.排序链表">
+  <component name="RunManager" selected="Python.236.二叉树的最近公共祖先">
     <configuration name="148.排序链表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="394. 字符串解码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="236.二叉树的最近公共祖先" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,7 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/394. 字符串解码.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/236.二叉树的最近公共祖先.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.236.二叉树的最近公共祖先" />
         <item itemvalue="Python.148.排序链表" />
         <item itemvalue="Python.718. 最长重复子数组" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.GIL全局解释器锁" />
-        <item itemvalue="Python.394. 字符串解码" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +287,8 @@
       <workItem from="1593589445967" duration="566000" />
       <workItem from="1593593178072" duration="5459000" />
       <workItem from="1594020650856" duration="206000" />
-      <workItem from="1594020886953" duration="521000" />
+      <workItem from="1594020886953" duration="1542000" />
+      <workItem from="1594025970210" duration="3895000" />
     </task>
     <task id="LOCAL-00001" summary="有效括号的嵌套深度，简单版">
       <created>1585730240198</created>
@@ -580,42 +459,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591669020044" />
-    <state width="1877" height="419" key="GridCell.Tab.0.bottom" timestamp="1594021359250">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1594029875682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.bottom/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="1877" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594021359250" />
-    <state width="1877" height="419" key="GridCell.Tab.0.center" timestamp="1594021359250">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875682" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1594029875682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.center/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="1877" height="419" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594021359250" />
-    <state width="1877" height="419" key="GridCell.Tab.0.left" timestamp="1594021359250">
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875682" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1594029875682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.left/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="1877" height="419" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594021359250" />
-    <state width="1877" height="419" key="GridCell.Tab.0.right" timestamp="1594021359250">
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875682" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1594029875682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="231" key="GridCell.Tab.0.right/0.0.1480.1040@0.0.1480.1040" timestamp="1589803698846" />
-    <state width="1877" height="419" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594021359250" />
-    <state width="1877" height="419" key="GridCell.Tab.1.bottom" timestamp="1594021360805">
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875682" />
+    <state width="1877" height="419" key="GridCell.Tab.1.bottom" timestamp="1594029875671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="419" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594021360805" />
-    <state width="1877" height="419" key="GridCell.Tab.1.center" timestamp="1594021360805">
+    <state width="1877" height="419" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875671" />
+    <state width="1877" height="419" key="GridCell.Tab.1.center" timestamp="1594029875671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="419" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594021360805" />
-    <state width="1877" height="419" key="GridCell.Tab.1.left" timestamp="1594021360805">
+    <state width="1877" height="419" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875671" />
+    <state width="1877" height="419" key="GridCell.Tab.1.left" timestamp="1594029875671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="419" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594021360805" />
-    <state width="1877" height="419" key="GridCell.Tab.1.right" timestamp="1594021360805">
+    <state width="1877" height="419" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875671" />
+    <state width="1877" height="419" key="GridCell.Tab.1.right" timestamp="1594029875671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="419" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594021360805" />
+    <state width="1877" height="419" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594029875671" />
     <state x="658" y="148" key="SettingsEditor" timestamp="1593593263173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -836,6 +715,16 @@
           <line>23</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/148.排序链表.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/148.排序链表.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -845,13 +734,6 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="res" language="Python" />
-        <watch expression="left" language="Python" />
-        <watch expression="right" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/crawler$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1567043575191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -869,6 +751,7 @@
     <SUITE FILE_PATH="coverage/leetcode_learn$136___1_.coverage" NAME="136.只出现一次的数字 (1) Coverage Results" MODIFIED="1589795035348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/位运算" />
     <SUITE FILE_PATH="coverage/leetcode_learn$718__.coverage" NAME="718. 最长重复子数组 Coverage Results" MODIFIED="1593601521615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1568949148703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_learn$236_.coverage" NAME="236.二叉树的最近公共祖先 Coverage Results" MODIFIED="1594029391050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$clonechart.coverage" NAME="clonechart Coverage Results" MODIFIED="1567047762777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$_longestCommonPrefix.coverage" NAME="最长公共前缀-longestCommonPrefix Coverage Results" MODIFIED="1568947072847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_learn$136_.coverage" NAME="136.只出现一次的数字 Coverage Results" MODIFIED="1589519117874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

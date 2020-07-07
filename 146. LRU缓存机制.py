@@ -37,32 +37,20 @@ class LRUCache:
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.dic = {}
-        # 新建两个节点 head 和 tail
         self.head = ListNode()
         self.tail = ListNode()
-        # 初始化链表为 head <-> tail
+        
         self.head.next = self.tail
         self.tail.prev = self.head
 
-    # 因为get与put操作都可能需要将双向链表中的某个节点移到末尾，所以定义一个方法
     def move_node_to_tail(self, key):
-            # 先将哈希表key指向的节点拎出来，为了简洁起名node
-            #      dic[key]                               dic[key]
-            #           |                                          |
-            #           V              -->                         V
-            # prev <-> node <-> next         pre <-> next   ...   node
-            node = self.dic[key]
-            node.prev.next = node.next
-            node.next.prev = node.prev
-            # 之后将node插入到尾节点前
-            #                 dic[key]                 dic[key]
-            #                      |                            |
-            #                      V        -->                 V
-            # prev <-> tail  ...  node                prev <-> node <-> tail
-            node.prev = self.tail.prev
-            node.next = self.tail
-            self.tail.prev.next = node
-            self.tail.prev = node
+        node = self.dic[key]
+        node.prev.next = node.next
+        node.next.prev = node.prev
+        node.prev = self.tail.prev
+        node.next = self.tail
+        self.tail.prev.next = node
+        self.tail.prev = node
 
     def get(self, key: int) -> int:
         if key in self.dic:
