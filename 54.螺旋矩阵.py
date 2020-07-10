@@ -1,6 +1,10 @@
-from typing import List
+#
+# @lc app=leetcode.cn id=54 lang=python3
+#
+# [54] 螺旋矩阵
+#
 
-
+# @lc code=start
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         if not  matrix:
@@ -23,12 +27,5 @@ class Solution:
             x2 -= 1
             y2 -= 1
         return res
+# @lc code=end
 
-
-if __name__ == '__main__':
-    nums =[
- [ 1, 2, 3 ],
- [ 4, 5, 6 ],
- [ 7, 8, 9 ]
-]
-    print(Solution().spiralOrder(nums))
