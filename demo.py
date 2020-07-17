@@ -7,7 +7,9 @@
 @FilePath: \leetcode-learn\demo.py
 '''
 
-
+def get_out(m, n, k):
+    for i in range(m-n):
+        
 
 
     
