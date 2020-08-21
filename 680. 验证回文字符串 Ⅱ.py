@@ -23,5 +23,4 @@ class Solution:
         return True
 
 
-if __name__ == '__main__':
-    print(Solution().validPalindrome('aba'))
+
